@@ -1,4 +1,4 @@
-# Ethereum Transaction Watcher
+# Ethereum PendingTransaction Watcher
 
 ## Description
 

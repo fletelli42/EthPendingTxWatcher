@@ -20,7 +20,7 @@ LIBS := -L/opt/homebrew/opt/cpprestsdk/lib \
 LINK_FLAGS := -lcpprest -lboost_system -lssl -lcrypto
 
 # Source Files
-SRC := main.cpp
+SRC := main.cpp ThreadPool.cpp
 
 # Target executable
 TARGET := main
